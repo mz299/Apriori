@@ -1,0 +1,20 @@
+TennisBalls, Ketchup, Cereal
+Napkins, Cereal, SmartWatch, TrashBags, LaundryDetergent
+TennisBalls, Headphones, SmartWatch, Napkins, TrashBags, Ketchup
+TennisBalls, LaundryDetergent, CatFood
+Napkins, TrashBags, SmartWatch, CatFood
+TennisBalls, TrashBags
+Headphones, TrashBags
+TennisBalls, Napkins, Ketchup, SmartWatch, CatFood
+TrashBags, LaundryDetergent, Cereal, XBox
+TennisBalls, Headphones, Ketchup, SmartWatch
+Napkins, CatFood, Ketchup, Cereal, XBox
+SmartWatch, Ketchup, TrashBags
+Napkins, Headphones, XBox, TennisBalls, CatFood
+Headphones, Napkins, TrashBags
+TennisBalls, Headphones, LaundryDetergent, TrashBags, Ketchup
+TennisBalls, Headphones, Cereal, SmartWatch, CatFood
+Headphones, XBox, SmartWatch, CatFood
+TrashBags, XBox, SmartWatch, Cereal, Ketchup, CatFood
+TennisBalls, Ketchup, SmartWatch
+CatFood, LaundryDetergent, Cereal, Ketchup
